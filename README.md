@@ -29,8 +29,3 @@
 </p>
 
 ---
-
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jishnu395&show_icons=true&theme=radical" alt="jishnu395's github stats" />
-</p>
