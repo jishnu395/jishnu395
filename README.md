@@ -1,12 +1,13 @@
-### Hi there, I'm Jishnu 👋
+# <p align = "center">Hi there, I'm Jishnu 👋 </p>
+## <p align = "center">Deeply enthusiastic about Java development and solving complex problems with clean, high-performance code. I am currently looking for new opportunities to grow as a developer and make a meaningful impact</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d1aGd6bjVrb25xZ2V5c3p2aGtrN2I5bzJmMHh3bnl2b3dydTBudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFhWGIhXiMFkQ/giphy.gif" alt="Pixel art of someone typing on a computer" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel art of a person on a computer in a purple room" width="400"/>
 </p>
 
 ---
 
-### 💻 Languages & Tools I Know:
+### 💻 Languages & Tools:
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-gray?style=for-the-badge" alt="OOP"/>
