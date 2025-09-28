@@ -1,7 +1,7 @@
 ### Hi there, I'm Jishnu 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d1aGd6bjVrb25xZ2V5c3p2aGtrN2I5bzJmMHh3bnl2b3dydTBudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFhWGIhXiMFkQ/giphy.gif" alt="Pixel art of someone typing on a computer" width="400"/>
 </p>
 
 ---
