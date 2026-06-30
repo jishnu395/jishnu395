@@ -58,6 +58,18 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnu395&theme=github-compact" />
+</p>
+
+---
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jishnu395&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jishnu395&layout=compact&theme=tokyonight"/>
+</p>
+
+---
 
 ### 🔗 Connect with Me:
 
