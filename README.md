@@ -23,7 +23,6 @@
 ### 🏆 Highlights:
 - 🥈 Runner-Up – Devfusion Hackathon, GDG Atria Institute of Technology
 - ☁️ Oracle Cloud Infrastructure (OCI) 2025 Certified AI Foundations Associate
-- ☁️ Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional
 
 ---
 
