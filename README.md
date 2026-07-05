@@ -16,23 +16,23 @@
 
 * 🎓 Computer Science Engineering student
 * 💻 Backend Developer focused on Java, Spring Boot, and scalable REST APIs
-* 🤖 Exploring AI/ML and LLM-powered applications
+* 🤖 Exploring AI, Machine Learning, and LLM-powered applications
 * 📚 Currently strengthening my DSA, System Design, and Backend Engineering skills
-* 🚀 Passionate about building real-world software that solves meaningful problems
+* 🚀 Passionate about building software that solves real-world problems
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 CareerGPT *(In Progress)*
+### 💼 [CareerGPT](https://github.com/jishnu395/CareerGPT) *(In Progress)*
 
-AI-powered career guidance platform that delivers personalized learning roadmaps, resume analysis, interview preparation, and LLM-powered career recommendations using **Java 17, Spring Boot, FastAPI, PostgreSQL, React, and AI integration**.
+AI-powered career guidance platform that delivers personalized learning roadmaps, resume analysis, interview preparation, ATS evaluation, and LLM-powered career recommendations using **Java 17, Spring Boot, FastAPI, PostgreSQL, React, and AI integration**.
 
-### 🏙️ CivicPulse *(In Progress)*
+### 🚨 [CrisisSync](https://github.com/jishnu395/CrisisSync) *(In Progress)*
 
-Smart civic grievance management platform enabling citizens to report issues, track complaint status, and receive AI-assisted categorization and prioritization. Built with **Spring Boot, React, PostgreSQL, Keycloak, Docker, and REST APIs**.
+AI-powered emergency response and crisis management platform that enables citizens to report incidents, track emergency requests, and assist authorities with intelligent incident prioritization using **Spring Boot, React, PostgreSQL, Keycloak, Docker, and REST APIs**.
 
-### 📈 Nifty Rebalancer Dashboard *(In Progress)*
+### 📈 [Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer) *(In Progress)*
 
 Interactive stock portfolio analytics dashboard that visualizes holdings, sector allocation, portfolio performance, and risk metrics to help investors make informed portfolio rebalancing decisions.
 
@@ -42,11 +42,13 @@ Interactive stock portfolio analytics dashboard that visualizes holdings, sector
 
 ### Java Technology Stack Virtual Intern
 
-**Infosys Springboard** *(June 2026 – Present)*
+**Infosys Springboard**
+*June 2026 – Present*
 
 ### Java Developer Intern
 
-**Elevate Labs** *(September 2025 – November 2025)*
+**Elevate Labs**
+*September 2025 – November 2025*
 
 ---
 
