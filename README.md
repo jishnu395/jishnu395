@@ -1,78 +1,76 @@
-# <p align="center">Hi there, I'm Jishnu 👋</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" width="380"/>
+</p>
 
-## <p align="center">Backend-focused Software Engineer specializing in Java, Spring Boot, and REST APIs. Passionate about building scalable applications and exploring AI-powered solutions.</p>
+<h1 align="center">Hi, I'm Jishnu 👋</h1>
+<h3 align="center">Backend-Focused Software Engineer | Java · Spring Boot · REST APIs | Exploring AI/LLM Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jishnu395&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-AI%20Foundations%20Associate-red?style=flat&logo=oracle" alt="OCI Certified"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" width="400"/>
+  <a href="https://www.linkedin.com/in/v-jishnu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jishnuvelmurugan365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Jishnu_635/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-* 🎓 Computer Science Engineering student
-* 💻 Backend Developer focused on Java, Spring Boot, and scalable REST APIs
-* 🤖 Exploring AI, Machine Learning, and LLM-powered applications
-* 📚 Currently strengthening my DSA, System Design, and Backend Engineering skills
-* 🚀 Passionate about building software that solves real-world problems
-
----
-
-## 🚀 Featured Projects
-
-### 💼 [CareerGPT](https://github.com/jishnu395/CareerGPT) *(In Progress)*
-
-AI-powered career guidance platform that delivers personalized learning roadmaps, resume analysis, interview preparation, ATS evaluation, and LLM-powered career recommendations using **Java 17, Spring Boot, FastAPI, PostgreSQL, React, and AI integration**.
-
-### 🚨 [CrisisSync](https://github.com/jishnu395/CrisisSync) *(In Progress)*
-
-AI-powered emergency response and crisis management platform that enables citizens to report incidents, track emergency requests, and assist authorities with intelligent incident prioritization using **Spring Boot, React, PostgreSQL, Keycloak, Docker, and REST APIs**.
-
-### 📈 [Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer) *(In Progress)*
-
-Interactive stock portfolio analytics dashboard that visualizes holdings, sector allocation, portfolio performance, and risk metrics to help investors make informed portfolio rebalancing decisions.
+- 🎓 Computer Science Engineering student, building a strong foundation in backend systems and software design
+- 💻 Focused on **Java, Spring Boot, and scalable REST APIs**
+- 🤖 Actively exploring **AI, Machine Learning, and LLM-powered applications**
+- 📚 Sharpening my **DSA, System Design, and Backend Engineering** fundamentals
+- 🚀 Enjoy building software that solves practical, real-world problems
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-### Java Technology Stack Virtual Intern
+**Java Technology Stack Virtual Intern** — *Infosys Springboard*
+`June 2026 – Present`
+- Working on Java-based backend modules as part of a structured virtual internship program
 
-**Infosys Springboard**
-*June 2026 – Present*
-
-### Java Developer Intern
-
-**Elevate Labs**
-*September 2025 – November 2025*
+**Java Developer Intern** — *Elevate Labs*
+`September 2025 – November 2025`
+- Contributed to backend development tasks using Java and related frameworks during the internship
 
 ---
 
-## 🏆 Achievements
+### 🚀 Featured Projects
 
-* 🥈 Runner-Up – DevFusion Hackathon, GDG Atria Institute of Technology
-* ☁️ Oracle Cloud Infrastructure (OCI) 2025 Certified AI Foundations Associate
+**[CareerGPT](https://github.com/jishnu395/CareerGPT)** *(In Progress)*
+AI-powered career guidance platform offering personalized learning roadmaps, resume analysis, ATS evaluation, and interview prep through LLM-based recommendations.
+`Java 17` `Spring Boot` `FastAPI` `PostgreSQL` `React` `AI Integration`
 
----
+**[CrisisSync](https://github.com/jishnu395/CrisisSync)** *(In Progress)*
+Emergency response and crisis management platform enabling incident reporting, request tracking, and AI-assisted incident prioritization for authorities.
+`Spring Boot` `React` `PostgreSQL` `Keycloak` `Docker` `REST APIs`
 
-## 🌱 Currently Learning
-
-* Artificial Intelligence, Machine Learning & Deep Learning
-* Advanced Data Structures & Algorithms
-* System Design
-* Spring Security, OAuth2 & Keycloak
-* Docker & Microservices Architecture
+**[Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer)** *(Collaborator, In Progress)*
+Interactive stock portfolio analytics dashboard visualizing holdings, sector allocation, performance, and risk metrics for informed rebalancing decisions.
 
 ---
 
-## 💻 Languages & Tools
+### 🏆 Achievements
+
+- 🥈 Runner-Up — DevFusion Hackathon, GDG Atria Institute of Technology
+- ☁️ Oracle Cloud Infrastructure (OCI) 2025 Certified AI Foundations Associate
+
+---
+
+### 🌱 Currently Learning
+
+`AI / ML / Deep Learning` `Advanced DSA` `System Design` `Spring Security & OAuth2` `Docker & Microservices`
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -92,54 +90,27 @@ Interactive stock portfolio analytics dashboard that visualizes holdings, sector
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-6C757D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge"/>
-
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jishnu395&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jishnu395&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishnu395&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnu395&theme=github-compact"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jishnu395&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jishnu395&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/v-jishnu" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jishnu395" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:jishnuvelmurugan365@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Jishnu_635/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnu395&theme=github-compact" alt="Activity Graph"/>
 </p>
 
 ---
 
 <p align="center">
-<i>"Building scalable backend systems today while exploring the AI-powered applications of tomorrow."</i> 🚀
+  <i>Building scalable backend systems today, while exploring the AI-powered applications of tomorrow. 🚀</i>
 </p>
