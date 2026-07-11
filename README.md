@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jishnu395&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-AI%20Foundations%20Associate-red?style=flat&logo=oracle" alt="OCI Certified"/>
 </p>
 
 <p align="center">
