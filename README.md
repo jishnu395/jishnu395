@@ -64,7 +64,7 @@ Interactive stock portfolio analytics dashboard visualizing holdings, sector all
 
 ### 🌱 Currently Learning
 
-`AI / ML / Deep Learning` `Advanced DSA` `System Design` `Spring Security & OAuth2` `Docker & Microservices`
+`AI / ML / Deep Learning` `Advanced DSA` `Spring Security & OAuth2` `Docker & Microservices`
 
 ---
 
