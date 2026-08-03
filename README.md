@@ -41,14 +41,6 @@
 
 ### 🚀 Featured Projects
 
-**[CareerGPT](https://github.com/jishnu395/CareerGPT)** *(In Progress)*
-AI-powered career guidance platform offering personalized learning roadmaps, resume analysis, ATS evaluation, and interview prep through LLM-based recommendations.
-`Java 17` `Spring Boot` `FastAPI` `PostgreSQL` `React` `AI Integration`
-
-**[CrisisSync](https://github.com/jishnu395/CrisisSync)** *(In Progress)*
-Emergency response and crisis management platform enabling incident reporting, request tracking, and AI-assisted incident prioritization for authorities.
-`Spring Boot` `React` `PostgreSQL` `Keycloak` `Docker` `REST APIs`
-
 **[Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer)** *(Collaborator, In Progress)*
 Interactive stock portfolio analytics dashboard visualizing holdings, sector allocation, performance, and risk metrics for informed rebalancing decisions.
 
