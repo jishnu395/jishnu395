@@ -63,13 +63,6 @@ A **microservices-based Smart Civic Governance Platform** designed to streamline
 
 ---
 
-### 🚀 Featured Projects
-
-**[Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer)** *(Collaborator, In Progress)*  
-Interactive stock portfolio analytics dashboard visualizing holdings, sector allocation, performance, and risk metrics for informed rebalancing decisions.
-
----
-
 ### 🏆 Achievements
 
 - 🥈 Runner-Up — DevFusion Hackathon, GDG Atria Institute of Technology
