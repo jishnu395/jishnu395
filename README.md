@@ -20,28 +20,52 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student, building a strong foundation in backend systems and software design
-- 💻 Focused on **Java, Spring Boot, and scalable REST APIs**
+- 💻 Focused on **Java, Spring Boot, Microservices, and scalable REST APIs**
 - 🤖 Actively exploring **AI, Machine Learning, and LLM-powered applications**
 - 📚 Sharpening my **DSA, System Design, and Backend Engineering** fundamentals
-- 🚀 Enjoy building software that solves practical, real-world problems
+- 🚀 Passionate about building software that solves practical, real-world problems
 
 ---
 
 ### 💼 Experience
 
-**Java Technology Stack Virtual Intern** — *Infosys Springboard*
+**Java Technology Stack Virtual Intern** — *Infosys Springboard*  
 `June 2026 – Present`
-- Working on Java-based backend modules as part of a structured virtual internship program
+- Working on Java-based backend modules as part of a structured virtual internship program.
 
-**Java Developer Intern** — *Elevate Labs*
+**Java Developer Intern** — *Elevate Labs*  
 `September 2025 – November 2025`
-- Contributed to backend development tasks using Java and related frameworks during the internship
+- Contributed to backend development tasks using Java and related frameworks during the internship.
+
+---
+
+### 🚀 Currently Working On
+
+### **🏛️ CivicPulse Nexus** *(Flagship Project)*
+
+A **microservices-based Smart Civic Governance Platform** designed to streamline citizen grievance management, welfare schemes, budgeting, and public service administration.
+
+**Key Highlights**
+- ⚡ Spring Boot Microservices Architecture
+- 🌐 API Gateway & Eureka Service Discovery
+- 🔐 Keycloak Authentication & OAuth2 Security
+- 📨 Apache Kafka Event-Driven Communication
+- 🗄️ PostgreSQL with Database-per-Service Pattern
+- ☁️ Docker-based Containerized Deployment
+- 📖 OpenAPI (Swagger) Documentation
+- 🎨 React + Material UI Frontend
+
+**Current Focus**
+- Developing backend microservices and secure REST APIs
+- Building citizen and government workflows
+- Implementing role-based access control and event-driven communication
+- Integrating AI-powered analytics and future intelligent grievance assistance
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer)** *(Collaborator, In Progress)*
+**[Nify Rebalancer Dashboard](https://github.com/poobujurke/Nify-Rebalancer)** *(Collaborator, In Progress)*  
 Interactive stock portfolio analytics dashboard visualizing holdings, sector allocation, performance, and risk metrics for informed rebalancing decisions.
 
 ---
@@ -55,7 +79,7 @@ Interactive stock portfolio analytics dashboard visualizing holdings, sector all
 
 ### 🌱 Currently Learning
 
-`AI / ML / Deep Learning` `Advanced DSA` `Spring Security & OAuth2` `Docker & Microservices`
+`Spring Cloud` `Microservices` `Apache Kafka` `AI / ML` `LLMs` `Advanced DSA` `Spring Security & OAuth2` `Docker & Kubernetes`
 
 ---
 
@@ -64,12 +88,16 @@ Interactive stock portfolio analytics dashboard visualizing holdings, sector all
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-6C757D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eureka-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Gateway-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -103,5 +131,5 @@ Interactive stock portfolio analytics dashboard visualizing holdings, sector all
 ---
 
 <p align="center">
-  <i>Building scalable backend systems today, while exploring the AI-powered applications of tomorrow. 🚀</i>
+  <i>Currently engineering scalable microservices with CivicPulse Nexus while exploring the future of AI-powered software. 🚀</i>
 </p>
