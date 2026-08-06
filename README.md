@@ -55,6 +55,47 @@ A **microservices-based Smart Civic Governance Platform** designed to streamline
 - 📖 OpenAPI (Swagger) Documentation
 - 🎨 React + Material UI Frontend
 
+
+---
+
+## ⭐ Featured Projects
+
+### 🎯 CareerGPT
+
+An **AI-powered career guidance platform** that helps students prepare for placements through personalized career assistance, interview preparation, resume analysis, and intelligent conversations.
+
+**Key Highlights**
+- 🤖 LLM-powered career assistant
+- 🔐 JWT Authentication & Spring Security
+- 💬 Persistent chat sessions and conversation history
+- 📝 AI-assisted resume and career guidance
+- 🎯 Interview preparation and personalized learning
+- ⚡ Spring Boot backend with FastAPI AI microservice
+- 🗄️ PostgreSQL database with RESTful APIs
+
+**Tech Stack**
+`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Python` `FastAPI` `LLMs` `REST APIs`
+
+---
+
+### 🏥 Swastra
+
+A **production-grade Healthcare Management System** that digitizes hospital and clinic operations by connecting **Admins, Doctors, and Patients** through a secure, role-based platform.
+
+**Key Highlights**
+- 🔐 JWT Authentication & Role-Based Access Control (Admin, Doctor, Patient)
+- 👨‍⚕️ Doctor and patient management
+- 📅 Schedule-aware appointment booking with double-booking prevention
+- 📋 Electronic medical records linked to completed appointments
+- 📊 Dedicated dashboards for Admins, Doctors, and Patients
+- 📖 Interactive Swagger/OpenAPI documentation
+- 📦 Dockerized deployment with PostgreSQL backend
+
+**Tech Stack**
+`Java 21` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Hibernate` `Spring Data JPA` `Swagger/OpenAPI` `Docker` `Maven`
+
+---
+
 **Current Focus**
 - Developing backend microservices and secure REST APIs
 - Building citizen and government workflows
