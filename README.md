@@ -113,7 +113,7 @@ A **production-grade Healthcare Management System** that digitizes hospital and 
 
 ### 🌱 Currently Learning
 
-`Spring Cloud` `Microservices` `Apache Kafka` `AI / ML` `LLMs` `Advanced DSA` `Spring Security & OAuth2` `Docker & Kubernetes`
+`Spring Cloud` `Microservices` `Apache Kafka` `AI / ML` `LLMs` `Advanced DSA` `Spring Security & OAuth2`
 
 ---
 
