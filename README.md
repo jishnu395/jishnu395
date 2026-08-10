@@ -41,7 +41,7 @@
 
 ### 🚀 Currently Working On
 
-### **🏛️ CivicPulse Nexus** *(Flagship Project)*
+### **🏛️ CivicPulse Nexus**
 
 A **microservices-based Smart Civic Governance Platform** designed to streamline citizen grievance management, welfare schemes, budgeting, and public service administration.
 
